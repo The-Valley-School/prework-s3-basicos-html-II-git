@@ -1,3 +1,7 @@
+>[Diapositivas](S3-recursos/introduccion-git.pdf)
+
+---
+
 **GIT** es una herramienta de control de versiones que permite a varios desarrolladores trabajar sobre un mismo proyecto. GIT tiene un control absoluto de todos los cambios que se han realizado en el proyecto, lo que nos ayuda en caso de error, ya que podemos volver a versiones en las que no existía el fallo y ver los cambios que lo han producido.
 
 La principal ventaja de GIT es que funciona de manera descentralizada. A la hora de iniciar un proyecto, nos descargamos un clon de lo que hay en el servidor, permitiendo seguir trabajando si el servidor llega a tener un problema.
