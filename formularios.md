@@ -1,3 +1,8 @@
+
+>[DIAPOSITIVAS](S3-recursos/formularios.pdf)
+
+---
+
 Bienvenidos a esta tercera sesión del prework. A lo largo de esta sesión:
 
 - Seguiremos trabajando con HTML, explicando los formularios
