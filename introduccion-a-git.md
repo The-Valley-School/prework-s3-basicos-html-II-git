@@ -1,4 +1,4 @@
->[Diapositivas](S3-recursos/introduccion-git.pdf)
+>[DIAPOSITIVAS](S3-recursos/introduccion-git.pdf)
 
 ---
 
@@ -6,13 +6,13 @@
 
 La principal ventaja de GIT es que funciona de manera descentralizada. A la hora de iniciar un proyecto, nos descargamos un clon de lo que hay en el servidor, permitiendo seguir trabajando si el servidor llega a tener un problema.
 
-![Untitled](%F0%9F%9F%A2%20SESIO%CC%81N%203%20-%20Ba%CC%81sicos%20HTML%20(II)%20+%20GIT%202e0d0321ebf346e7a4de9511a581da8c/Untitled.png)
+![introduccion-git](S3-recursos/img/0-introduccion-git.png)
 
 **FLUJO DE TRABAJO**
 
 Vamos ahora a explicar el flujo de trabajo de GIT, para ello prestaremos especial atención al siguiente diagrama:
 
-![Untitled](%F0%9F%9F%A2%20SESIO%CC%81N%203%20-%20Ba%CC%81sicos%20HTML%20(II)%20+%20GIT%202e0d0321ebf346e7a4de9511a581da8c/Untitled%201.png)
+![flujo-git](S3-recursos/img/1-flujo-git.png)
 
 - Nosotros al iniciar un proyecto, estaremos trabajando en **local**, modificando, creando y eliminando archivos
 - Muchos de estos cambios serán susceptibles de ser subidos a nuestro **repositorio local**, para posteriormente, sincronizarlo con el **repositorio remoto**
