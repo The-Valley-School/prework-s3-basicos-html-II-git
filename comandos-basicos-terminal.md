@@ -1,3 +1,8 @@
+
+>[DIAPOSITIVAS](S3-recursos/terminal.pdf)
+
+---
+
 Antes de ponernos a trabajar con GIT vamos a ver los principales comandos de la consola, que nos van a ser de mucha ayuda cuando trabajemos con el control de versiones.  
 
 La consola es un entorno por el cual, a través de ciertos comandos, vamos a poder decirle al sistema que realice ciertas acciones. 
