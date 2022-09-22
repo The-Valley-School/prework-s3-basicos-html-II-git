@@ -9,7 +9,7 @@ La consola es un entorno por el cual, a través de ciertos comandos, vamos a pod
 
 ¡USUARIOS DE WINDOWS! Por favor, usar la terminal de git bash para que todos los comandos que aprendamos nos funcionen.
 
-**COMANDO**
+## COMANDOS
 
 - **cd**  → Es el comando que nos va a permitir movernos entre directorios. Utilizaremos cd seguido de la carpeta a la que queramos navegar que se encuentre dentro del directorio en el que estamos. Si queremos navegar a la carpeta contenedora pondremos cd ..
     
