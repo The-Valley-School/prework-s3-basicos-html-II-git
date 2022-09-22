@@ -10,7 +10,7 @@ Bienvenidos a esta tercera sesión del prework. A lo largo de esta sesión:
 - Veremos una introducción a GIT, así como los comandos básicos
 - Subiremos a GitHub nuestra primera web
 
-**FORMULARIOS**
+## FORMULARIOS
 
 Casi cualquier página web tiene formularios. Estos nos sirven para que el usuario pueda hacernos llegar una cierta información, ya sean:
 
