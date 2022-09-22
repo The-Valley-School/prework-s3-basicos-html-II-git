@@ -1,5 +1,5 @@
 
-**CREAR REPOSITORIO**
+## CREAR REPOSITORIO
 
 Vamos a configurar ahora nuestro repositorio remoto en GitHub. En la página principal le damos a crear nuevo repositorio.
 
@@ -38,7 +38,7 @@ Seguiríamos a partir de ahora trabajando de la misma manera, únicamente nos qu
 
 Para traernos los cambios del repositorio tendríamos que utilizar el git pull (nos trae los cambios del servidor)
 
-**GIT CLONE**
+## GIT CLONE
 
 Vamos a aprender el git clone que nos va a permitir hacernos copias de un proyecto.
 
