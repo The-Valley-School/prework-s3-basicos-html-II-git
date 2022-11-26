@@ -40,9 +40,9 @@ Llega el momento de la pregunta ‘¿Cómo te gusta el café?’. En este caso, 
 ```html
 <label>
     <p>4) ¿Cómo te gusta el café?</p>
-    <input type="radio" name="comdida" value="solo"/> Solo
-    <input type="radio" name="comdida" value="leche"/> Con leche
-    <input type="radio" name="comdida" value="nada"/> No me gusta el café
+    <input type="radio" name="cafe" value="solo"/> Solo
+    <input type="radio" name="cafe" value="leche"/> Con leche
+    <input type="radio" name="cafe" value="nada"/> No me gusta el café
 </label>
 ```
 
@@ -51,9 +51,9 @@ La siguiente pregunta ‘¿Dónde ves las series?’ tiene la intención de que 
 ```html
 <label>
     <p>5) ¿Dónde ves las series?</p>
-    <input type="checkbox" name="comdida" value="hbo"/> HBO
-    <input type="checkbox" name="comdida" value="netflix"/> Netflix
-    <input type="checkbox" name="comdida" value="amazon"/> Amazon
+    <input type="checkbox" name="series" value="hbo"/> HBO
+    <input type="checkbox" name="series" value="netflix"/> Netflix
+    <input type="checkbox" name="series" value="amazon"/> Amazon
 </label>
 ```
 
@@ -109,15 +109,15 @@ Nos queda el botón de enviar información y el limpiar el formulario:
         <br>
         <label>
             <p>4) ¿Cómo te gusta el café?</p>
-            <input type="radio" name="comdida" value="solo"/> Solo
-            <input type="radio" name="comdida" value="leche"/> Con leche
-            <input type="radio" name="comdida" value="nada"/> No me gusta el café
+            <input type="radio" name="cafe" value="solo"/> Solo
+            <input type="radio" name="cafe" value="leche"/> Con leche
+            <input type="radio" name="cafe" value="nada"/> No me gusta el café
         </label>
         <label>
             <p>5) ¿Dónde ves las series?</p>
-            <input type="checkbox" name="comdida" value="hbo"/> HBO
-            <input type="checkbox" name="comdida" value="netflix"/> Netflix
-            <input type="checkbox" name="comdida" value="amazon"/> Amazon
+            <input type="checkbox" name="series" value="hbo"/> HBO
+            <input type="checkbox" name="series" value="netflix"/> Netflix
+            <input type="checkbox" name="series" value="amazon"/> Amazon
         </label>
         <label>
           <p>6) Cuéntanos más sobre ti</p>
