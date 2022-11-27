@@ -35,7 +35,7 @@ git add fichero.txt
 
   
 
-Ya tendríamos entonces un nuevo fichero para en fase stage susceptible de subir a nuestro repositorio local. 
+Ya tendríamos entonces un nuevo fichero en fase stage susceptible de ser subido a nuestro repositorio local. 
 
 Es importante que si después de subir a fase stage un archivo lo modificamos, seamos conscientes de que estos últimos cambios no se van a subir a menos que volvamos a hacer un **git add**
 
