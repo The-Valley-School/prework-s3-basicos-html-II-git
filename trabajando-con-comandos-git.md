@@ -86,7 +86,7 @@ git commit -m "Añadimos fichero2"
 
 ```bash
 git status
-git add fichero2.txt
+git add fichero3.txt
 git status
 git commit -m "Añadimos fichero3"
 ```
@@ -116,6 +116,6 @@ git commit -m 'Eliminamos fichero3'
 git status
 rm fichero2.txt
 git status
-git restore fichero3.txt
+git restore fichero2.txt
 git status
 ```
